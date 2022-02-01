@@ -1,2 +1,2 @@
 # UnrealToolMaking
-A try on digging deep in the Engine to try to extend the Editor
+A tried digging deep in the Engine to extend the Editor. I accomplished understanding about the Engine, Plugins, Modules, UI, Slate and in editor UtilityWidget. I successfully created a custom actor and will be moving on to DetailCustomization of it to make a BP which can make a 2D level through a png file reading its pixel coordinates and colors for what kind of platform at what position.
